@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>ua.agendmedical.app</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Agenddoc</string>
+				<string>Agend Medical</string>
 			</dict>
 		</dict>
 	</array>
